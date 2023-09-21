@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihyolal&label=Profile%20views&color=0e75b6&style=flat" alt="fatihyolal" /> </p>
 
-- 🔭 I’m currently working on [[Github Profilinator]]((https://github.com/fatihyolal/github-profilinator))
-
 - 🌱 I’m currently learning **Vue.js & React.js**
 
 - 💬 Ask me about **Le Wagon, Ruby on Rails, JavaScript, HTML, and CSS**
